@@ -2,7 +2,7 @@
 
 **A quiet, local research website monitor for macOS.**
 
-[简体中文](README.zh-CN.md) · [Privacy](docs/PRIVACY.md) · [Build](docs/BUILD.md) · [Publishing](docs/PUBLISHING.md)
+[Quick overview](FAST_README.md) · [简体中文](README.zh-CN.md) · [Privacy](docs/PRIVACY.md) · [Build](docs/BUILD.md) · [Publishing](docs/PUBLISHING.md)
 
 ![Clean first-run dashboard](docs/dashboard.png)
 
